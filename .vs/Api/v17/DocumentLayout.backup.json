@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\easyd\\source\\repos\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|c:\\users\\easyd\\source\\repos\\api\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|c:\\users\\easyd\\source\\repos\\api\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|solutionrelative:services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|c:\\users\\easyd\\source\\repos\\api\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|solutionrelative:services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|c:\\users\\easyd\\source\\repos\\api\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|c:\\users\\easyd\\source\\repos\\api\\services\\livro\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BE8599-0B1D-4D24-9955-2C30A09681C3}|Api.csproj|solutionrelative:services\\livro\\ilivrointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILivroInterface.cs",
+              "DocumentMoniker": "C:\\Users\\easyd\\source\\repos\\Api\\Services\\Livro\\ILivroInterface.cs",
+              "RelativeDocumentMoniker": "Services\\Livro\\ILivroInterface.cs",
+              "ToolTip": "C:\\Users\\easyd\\source\\repos\\Api\\Services\\Livro\\ILivroInterface.cs",
+              "RelativeToolTip": "Services\\Livro\\ILivroInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:40:56.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\easyd\\source\\repos\\Api\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "Services\\Autor\\AutorService.cs",
+              "ToolTip": "C:\\Users\\easyd\\source\\repos\\Api\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "Services\\Autor\\AutorService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwJ4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:26:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\easyd\\source\\repos\\Api\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\easyd\\source\\repos\\Api\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Controllers\\AutorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:14:57.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\easyd\\source\\repos\\Api\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\easyd\\source\\repos\\Api\\Controllers\\LivroController.cs*",
+              "RelativeToolTip": "Controllers\\LivroController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:14:53.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "C:\\Users\\easyd\\source\\repos\\Api\\Services\\Livro\\LivroService.cs",
+              "RelativeDocumentMoniker": "Services\\Livro\\LivroService.cs",
+              "ToolTip": "C:\\Users\\easyd\\source\\repos\\Api\\Services\\Livro\\LivroService.cs*",
+              "RelativeToolTip": "Services\\Livro\\LivroService.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:03:02.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
